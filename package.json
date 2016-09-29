@@ -1,5 +1,5 @@
 {
-  "name": "angular-quickstart",
+  "name": "quickstart",
   "version": "1.0.0",
   "description": "QuickStart package.json from the documentation, supplemented with testing support",
   "scripts": {
@@ -58,7 +58,10 @@
     "karma-jasmine": "^1.0.2",
     "karma-jasmine-html-reporter": "^0.2.2",
     "protractor": "^3.3.0",
-    "rimraf": "^2.5.4"
+    "rimraf": "^2.5.4",
+    "gulp": "3.9.1",
+    "gulp-sourcemaps": "2.0.0-alpha",
+    "del": "2.2.2"
   },
   "repository": {}
 }
